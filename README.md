@@ -1,2 +1,1 @@
-# pkurogerjs.github.io
-Shuang Jiang's Personal Website
+# Shuang Jiang's Personal Website
