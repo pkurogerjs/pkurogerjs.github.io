@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Shuang Jiang's Website</title>
+    <link type="application/atom+xml" rel="self" href="http://pkurogerjs.github.io//atom.xml"/>
+  
+  <link href="http://pkurogerjs.github.io//"/>
+  <id>http://pkurogerjs.github.io//</id>
+  <updated>2018-11-01T09:46:11Z</updated>
+  <author>
+    <name>Shuang Jiang</name>
+    <email>jspku1222@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2018 Shuang Jiang. All rights reserved.</rights>
+  
+
+</feed>
